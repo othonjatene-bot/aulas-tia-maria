@@ -509,7 +509,7 @@ summary:focus-visible {
   border: 10px solid var(--white);
   border-radius: 220px 220px 44px 44px;
   object-fit: cover;
-  object-position: center 68%;
+  object-position: center 38%;
   box-shadow: var(--shadow);
 }
 

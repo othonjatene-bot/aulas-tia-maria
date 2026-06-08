@@ -21,7 +21,7 @@ Abra o arquivo `index.html` diretamente no navegador. Para uma visualização ma
 - **WhatsApp:** altere `WHATSAPP_NUMBER` no início de `script.js`.
 - **Textos e pacotes:** edite as seções correspondentes em `index.html`.
 - **Preços:** procure por `R$` em `index.html`.
-- **Imagem principal:** substitua `assets/tia-maria.jpeg`, mantendo o mesmo nome, ou atualize o caminho no HTML.
+- **Imagem principal:** substitua `assets/maria-foto-landv01.png`, mantendo o mesmo nome, ou atualize o caminho no HTML.
 - **Cores:** altere as variáveis no início de `styles.css`.
 
 O formulário funciona inteiramente no navegador. Nenhum dado é armazenado ou enviado a um banco de dados.
